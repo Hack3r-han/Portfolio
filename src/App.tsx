@@ -1,6 +1,7 @@
 import Nav from "./components/Nav"
 import About from "./components/About"
 import WelcomeMessage from "./components/TypeAnimation"
+import Projects from "./components/Projects"
 
 const App = () => {
 
@@ -9,6 +10,7 @@ const App = () => {
       <Nav/>
       <About/>
       <WelcomeMessage/>
+      <Projects/>
     </div>
   )
 }
