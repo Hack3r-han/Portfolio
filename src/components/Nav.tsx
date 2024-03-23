@@ -18,9 +18,6 @@ const Nav = () => {
                 <div className="lg:flex md:flex lg: flex-1 items-center justify-end font-normal hidden">
                     <div className="flex-10">
                         <ul className="flex gap-8 mr-16 text-[18px]">
-                            <Link spy={true} smooth={true} to="Home">
-                                <li className="hover:text-orange-400 hover:bg-amber-300 hover:rounded-lg hover:p-0.5 transition cursor-pointer">Home</li>
-                            </Link>
                             <Link spy={true} smooth={true} to="About">
                                 <li className="hover:text-orange-400 hover:bg-amber-300 hover:rounded-lg hover:p-0.5 transition cursor-pointer">About</li>
                             </Link>
@@ -48,9 +45,6 @@ const Nav = () => {
             {click && (
                 <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-sky-600 bg-opacity-40 transition">
                     <ul className="text-center text-xl text-orange-400 p-20">
-                        <Link spy={true} smooth={true} to="Home">
-                            <li className="my-4 py-4 border-b border-sky-600 hover:bg-sky-600 hover:rounded">Home</li>
-                        </Link>
                         <Link spy={true} smooth={true} to="About">
                             <li className="my-4 py-4 border-b border-sky-600 hover:bg-sky-600 hover:rounded">About</li>
                         </Link>
