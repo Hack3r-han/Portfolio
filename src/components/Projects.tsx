@@ -1,10 +1,11 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectCard";
-import Desktop from "../assets/Desktop.png";
 import Apolliculture from "../assets/Apolliculture.png";
 import Ecoders from "../assets/Ecoders.jpeg";
 import ChewbaGames from "../assets/ChewbaGames.jpeg";
 import eCollectic from "../assets/eCollectic.jpeg";
+import Bizaar from "../assets/Bizaar.jpeg";
+import Arboretum from "../assets/Arboretum.jpeg";
 
 const Projects = () => {
   return (
@@ -61,8 +62,26 @@ const Projects = () => {
             outdated cardigan and replace it with the Golden Fleece. Because you deserve the best. 
             Peruse our site to discover the eclectic range of items on offer. Find products that will 
             redefine convenience and provide your life with new meaning. eCollectic, connecting buyers 
-            and sellers globally. Click and Collect now! At your online bazaar for all things bizarre. "
+            and sellers globally. Click and Collect now!"
             src={eCollectic}
+          />
+          <ProjectsCard
+            title="Bizaar eCommerce"
+            des="Here are the results of my first hackathon! During this intensive event, our team crafted 
+            an e-commerce platform: Your Bazaar for All Things Bizarre. With a mission to celebrate the 
+            extraordinary and eclectic, we embarked on a whirlwind of coding, design, and collaboration to 
+            bring this vision to life. From quirky gadgets to unique treasures, our platform showcases a 
+            kaleidoscope of miscellaneous items, inviting users to explore the unexpected. "
+            src={Bizaar}
+          />
+          <ProjectsCard
+            title="Arboretum Todo List"
+            des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
+            into a lush botanical oasis. As you check off your list, your virtual will garden flourish. With 
+            each completed task, witness the beauty of your accomplishments blossom before your eyes. Thanks 
+            to this task manager, you'll cultivate not only a thriving garden but also a sense of fulfillment 
+            and achievement."
+            src={Arboretum}
           />
         </div>
     </section>
