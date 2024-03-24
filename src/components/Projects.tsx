@@ -13,13 +13,11 @@ const Projects = () => {
       id="projects"
       className="w-full py-20 border-b-[1px] border-b-gray-700"
     >
-        <div className="flex justify-center items-center text-center">
-          <Title
-            title="VISIT MY PORTFOLIO"
-            des="My Projects"
-          />
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+      <div className="flex justify-center items-center text-center">
+        <Title title="VISIT MY PORTFOLIO" des="My Projects" />
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <a href="https://apolliculture-commerce.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Apolliculture eCommerce"
             des="The name Apolliculture merges the idea of ​​the Greek God, Apollo, with 
@@ -32,6 +30,8 @@ const Projects = () => {
             a tu Aristeo - We are the Apollo to your Aristaeus."
             src={Apolliculture}
           />
+        </a>
+        <a href="https://ecoderstech.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="ECODERS"
             des="This project marks my debut in web development. It stands as a testament 
@@ -43,6 +43,8 @@ const Projects = () => {
             drive business growth but also contribute to the planet's well-being."
             src={Ecoders}
           />
+        </a>
+        <a href="https://star-wars-roulette.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Star Wars Roulette"
             des="The FIRST ORDER will not rest until the last Jedi has been destroyed. 
@@ -55,6 +57,8 @@ const Projects = () => {
             to assist in this mission? Let's see what the roulette decides…"
             src={ChewbaGames}
           />
+        </a>
+        <a href="https://ecollectic.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="eCollectic Dashboard"
             des="Until now, you've been idly bumbling through life, inadvertently submitting yourself 
@@ -65,6 +69,8 @@ const Projects = () => {
             and sellers globally. Click and Collect now!"
             src={eCollectic}
           />
+        </a>
+        <a href="https://bizarrebazaar.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Bizaar eCommerce"
             des="Here are the results of my first hackathon! During this intensive event, our team crafted 
@@ -74,6 +80,8 @@ const Projects = () => {
             kaleidoscope of miscellaneous items, inviting users to explore the unexpected. "
             src={Bizaar}
           />
+        </a>
+        <a href="https://arboretum-task-manager.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Arboretum Todo List"
             des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
@@ -83,7 +91,8 @@ const Projects = () => {
             and achievement."
             src={Arboretum}
           />
-        </div>
+        </a>
+      </div>
     </section>
   );
 };
