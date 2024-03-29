@@ -70,7 +70,7 @@ const Projects = () => {
             src={eCollectic}
           />
         </a>
-        <a href="https://bizarrebazaar.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://bizarre-bazaar.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Bizaar eCommerce"
             des="Here are the results of my first hackathon! During this intensive event, our team crafted 
@@ -85,7 +85,7 @@ const Projects = () => {
           <ProjectsCard
             title="Arboretum Todo List"
             des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
-            into a lush botanical oasis. As you check off your list, your virtual will garden flourish. With 
+            into a lush botanical oasis. As you check off your list, your virtual garden will flourish. With 
             each completed task, witness the beauty of your accomplishments blossom before your eyes. Thanks 
             to this task manager, you'll cultivate not only a thriving garden but also a sense of fulfillment 
             and achievement."
