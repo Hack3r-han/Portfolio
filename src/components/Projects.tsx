@@ -44,7 +44,7 @@ const Projects = () => {
             src={Ecoders}
           />
         </a>
-        <a href="https://star-wars-roulette.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://star-wars-roulette.vercel.app/index.html" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Star Wars Roulette"
             des="The FIRST ORDER will not rest until the last Jedi has been destroyed. 
