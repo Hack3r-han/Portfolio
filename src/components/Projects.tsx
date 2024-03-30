@@ -2,7 +2,7 @@ import Title from "./Title";
 import ProjectsCard from "./ProjectCard";
 import Apolliculture from "../assets/Apolliculture.png";
 import Ecoders from "../assets/Ecoders.jpeg";
-import ChewbaGames from "../assets/ChewbaGames.jpeg";
+import ChewbaGames from "../assets/ChewbaGames.png";
 import eCollectic from "../assets/eCollectic.jpeg";
 import Bizaar from "../assets/Bizaar.jpeg";
 import Arboretum from "../assets/Arboretum.jpeg";
