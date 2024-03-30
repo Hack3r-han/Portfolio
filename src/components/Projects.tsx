@@ -14,7 +14,7 @@ const Projects = () => {
       className="w-full py-20"
     >
       <div className="flex justify-center items-center text-center">
-        <Title title="VISIT MY PORTFOLIO: THE TOP 3 ACHIEVEMENTS ARE STARRED" des="My Projects" />
+        <Title title="VISIT MY PORTFOLIO" des="My Projects" />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <a href="https://apolliculture-commerce.vercel.app/" target="_blank" rel="noopener noreferrer">
