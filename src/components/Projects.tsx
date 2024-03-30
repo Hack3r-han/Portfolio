@@ -5,7 +5,7 @@ import Ecoders from "../assets/Ecoders.jpeg";
 import ChewbaGames from "../assets/ChewbaGames.png";
 import eCollectic from "../assets/eCollectic.jpeg";
 import Bizaar from "../assets/Bizaar.jpeg";
-import Arboretum from "../assets/Arboretum.jpeg";
+import Arboretum from "../assets/Arboretum.png";
 
 const Projects = () => {
   return (
@@ -29,19 +29,8 @@ const Projects = () => {
             beekeeping, from exquisite honey to natural beauty products. Somos el Apolo 
             a tu Aristeo - We are the Apollo to your Aristaeus."
             src={Apolliculture}
-          />
-        </a>
-        <a href="https://ecoderstech.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <ProjectsCard
-            title="ECODERS"
-            des="This project marks my debut in web development. It stands as a testament 
-            to my commitment to sustainable technology solutions. ECODERS (eco-coders) 
-            is not just a project, it's a vision. We are a consultancy dedicated to 
-            empowering local businesses and enterprises to embrace eco-friendly digital 
-            practices. From resource optimization to implementing green technologies, the 
-            ECODERS team works tirelessly to deliver innovative solutions that not only 
-            drive business growth but also contribute to the planet's well-being."
-            src={Ecoders}
+            githubLink="https://github.com/DenisseNavarro/Apolliculture"
+            canvaLink="https://www.canva.com/design/DAF-fh6M-f0/qv_qNkuOqzkVqXINPFFflA/view?utm_content=DAF-fh6M-f0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
           />
         </a>
         <a href="https://star-wars-roulette.vercel.app/index.html" target="_blank" rel="noopener noreferrer">
@@ -56,6 +45,21 @@ const Projects = () => {
             a clue to Skywalkers whereabouts has been discovered... Who will be the chosen ones
             to assist in this mission? Let's see what the roulette decides…"
             src={ChewbaGames}
+            githubLink="https://github.com/Hack3r-han/StarWars-Roulette"
+            canvaLink="https://www.canva.com/design/DAGA-Vmj5Cs/jMw_Sg3byoDkEC4sVIBZrA/view?utm_content=DAGA-Vmj5Cs&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          />
+        </a>
+        <a href="https://arboretum-task-manager.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <ProjectsCard
+            title="Arboretum Todo List"
+            des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
+            into a lush botanical oasis. As you check off your list, your virtual garden will flourish. With 
+            each completed task, witness the beauty of your accomplishments blossom before your eyes. Thanks 
+            to this task manager, you'll cultivate not only a thriving garden but also a sense of fulfillment 
+            and achievement."
+            src={Arboretum}
+            githubLink="https://github.com/Hack3r-han/Arboretum-TDL"
+            canvaLink=""
           />
         </a>
         <a href="https://ecollectic.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -68,6 +72,8 @@ const Projects = () => {
             redefine convenience and provide your life with new meaning. eCollectic, connecting buyers 
             and sellers globally. Click and Collect now!"
             src={eCollectic}
+            githubLink="https://github.com/Hack3r-han/eCollectic"
+            canvaLink="https://www.canva.com/design/DAGA-BH5k2I/VKFfj8-50vQmqczFKrkmkg/view?utm_content=DAGA-BH5k2I&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
         </a>
         <a href="https://bizarre-bazaar.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -79,17 +85,23 @@ const Projects = () => {
             bring this vision to life. From quirky gadgets to unique treasures, our platform showcases a 
             kaleidoscope of miscellaneous items, inviting users to explore the unexpected. "
             src={Bizaar}
+            githubLink="https://github.com/GitNinja0/Hackathon_Proyect"
+            canvaLink="https://docs.google.com/presentation/d/e/2PACX-1vSlaxzaSJj-Nc3keJdnUhlU_hfMfdIQP76wcArah7GthcMw-ZmsEnNJgW7CEBn0mEOqkunNlE5iBLeZ/pub?start=false&loop=false&delayms=3000&slide=id.p"
           />
         </a>
-        <a href="https://arboretum-task-manager.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="https://ecoderstech.vercel.app/" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
-            title="Arboretum Todo List"
-            des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
-            into a lush botanical oasis. As you check off your list, your virtual garden will flourish. With 
-            each completed task, witness the beauty of your accomplishments blossom before your eyes. Thanks 
-            to this task manager, you'll cultivate not only a thriving garden but also a sense of fulfillment 
-            and achievement."
-            src={Arboretum}
+            title="ECODERS"
+            des="This project marks my debut in web development. It stands as a testament 
+            to my commitment to sustainable technology solutions. ECODERS (eco-coders) 
+            is not just a project, it's a vision. We are a consultancy dedicated to 
+            empowering local businesses and enterprises to embrace eco-friendly digital 
+            practices. From resource optimization to implementing green technologies, the 
+            ECODERS team works tirelessly to deliver innovative solutions that not only 
+            drive business growth but also contribute to the planet's well-being."
+            src={Ecoders}
+            githubLink="https://github.com/Hack3r-han/ECO-DERS"
+            canvaLink="https://www.canva.com/design/DAGA-b3wnyU/QhwRCLilSKBl82olNLH-Tw/view?utm_content=DAGA-b3wnyU&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
         </a>
       </div>
