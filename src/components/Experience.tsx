@@ -35,7 +35,7 @@ const Experience = () => {
             des="An introduction to essential Python programming skills and automation techniques to streamline processes and enhance efficiency in IT operations."
           />
           <ResumeCard
-            title="BA Foreign Languages, Literacy, and Linguistics"
+            title="BA Foreign Languages, Literatures, and Linguistics"
             subTitle="University of Liverpool (2016 - 2020)"
             place="2:1"
             des="Specialized in French. Through immersive study, cultural exploration, and linguistic analysis, I developed a deep understanding of the intricacies of  language, enabling effective communication and cultural appreciation."
