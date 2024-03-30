@@ -10,7 +10,7 @@ import Arboretum from "../assets/Arboretum.png";
 const Projects = () => {
   return (
     <section
-      id="projects"
+      id="Projects"
       className="w-full py-20"
     >
       <div className="flex justify-center items-center text-center">

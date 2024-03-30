@@ -1,5 +1,5 @@
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { FaGithub, FaLinkedinIn, FaReact } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaReact, FaWordpress } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiTypescript } from "react-icons/si";
 
 const LeftBanner = () => {
@@ -11,7 +11,7 @@ const LeftBanner = () => {
     delaySpeed: 2000,
   });
   return (
-    <section className="w-full lgl:w-1/2 flex flex-col gap-20 pl-20">
+    <section className="w-full lgl:w-1/2 flex flex-col gap-20 p-20">
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-mono font-normal text-sky-600">WELCOME TO MY SITE</h4>
         <h1 className="text-6xl font-mono font-bold text-sky-600">
@@ -40,6 +40,11 @@ const LeftBanner = () => {
             <a href="https://github.com/Hack3r-han" target="_blank">
               <span className="text-lg w-12 h-12 rounded-full bg-sky-600 inline-flex justify-center items-center text-sky-300 hover:text-orange-400 duration-300 cursor-pointer">
                 <FaGithub />
+              </span>
+            </a>
+            <a href="https://rabillodepasa.wordpress.com/" target="_blank">
+              <span className="text-lg w-12 h-12 rounded-full bg-sky-600 inline-flex justify-center items-center text-sky-300 hover:text-orange-400 duration-300 cursor-pointer">
+                <FaWordpress />
               </span>
             </a>
           </div>

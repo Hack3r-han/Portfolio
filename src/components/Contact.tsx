@@ -47,7 +47,7 @@ const Contact = () => {
 
   return (
     <section
-      id="contact"
+      id="Contact"
       className="w-full py-20"
     >
       <div className="flex justify-center items-center text-center">
