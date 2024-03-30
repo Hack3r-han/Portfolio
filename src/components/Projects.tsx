@@ -42,7 +42,7 @@ const Projects = () => {
             RESISTANCE. She is desperate to find her brother and enlist his help in restoring 
             peace to the galaxy. Laudy has sent her most daring pilot, Hana-Solo, 
             with his faithful ally Neybacca, to the planet Stack Overflow, where 
-            a clue to Skywalkers whereabouts has been discovered... Who will be the chosen ones
+            a clue to Skywalker's whereabouts has been discovered... Who will be the chosen ones
             to assist in this mission? Let's see what the roulette decides…"
             src={ChewbaGames}
             githubLink="https://github.com/Hack3r-han/StarWars-Roulette"
