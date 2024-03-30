@@ -26,7 +26,7 @@ const Experience = () => {
             title="Full Stack Web Development"
             subTitle="Factoría F5 (Oct - present)"
             place="MADRID"
-            des="A comprehensive 6-month bootcamp which covered the latest skills in web development, by tackling front-end and back-end projects"
+            des="A comprehensive 6-month bootcamp which covered the latest skills in web development, by tackling front-end and back-end projects."
           />
           <ResumeCard
             title="Google IT Automation with Python (112 hrs)"
