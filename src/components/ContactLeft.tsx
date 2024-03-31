@@ -14,7 +14,7 @@ const ContactLeft = () => {
         title="LEGO Space Guy 1980"
         src="https://sketchfab.com/models/5bd15ef2dfaa4098b7b28ac10cf145f7/embed"
       />
-      <div className="flex flex-col gap-4 lg:w-[90%] pl-12">
+      <div className="flex flex-col gap-4 lg:w-[90%] pl-8">
         <h3 className="text-3xl font-bold text-orange-400">🚀 Hannah Phillips 🚀</h3>
         <p className="text-lg font-normal text-yellow-400">
           Providing ★STELLAR★ solutions
