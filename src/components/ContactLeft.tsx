@@ -25,12 +25,12 @@ const ContactLeft = () => {
         latest tech, I craft stellar solutions. Join me on this cosmic journey, and 
         together, we'll reach new heights in the digital galaxy.
         </p>
-        <p className="text-base text-white flex items-center gap-2">
+        {/* <p className="text-base text-white flex items-center gap-2">
           ☎ <span className="text-white">+34 643 489 956</span>
         </p>
         <p className="text-base text-white flex items-center gap-2">
           ✉ <span className="text-lightText">hannahphillips170@yahoo.com</span>
-        </p>
+        </p> */}
       </div>
     </div>
   );

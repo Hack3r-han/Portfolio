@@ -38,7 +38,7 @@ const Experience = () => {
             title="BA Foreign Languages, Literatures, and Linguistics"
             subTitle="University of Liverpool (2016 - 2020)"
             place="2:1"
-            des="Specialized in French. Through immersive study, cultural exploration, and linguistic analysis, I developed a deep understanding of the intricacies of  language, enabling effective communication and cultural appreciation."
+            des="Specialized in French. Through immersive study, cultural exploration, and linguistic analysis, I developed a deep understanding of the intricacies of  language."
           />
         </div>
       </div>
