@@ -17,7 +17,7 @@ const Projects = () => {
         <Title title="VISIT MY PORTFOLIO" des="My Projects" />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
-        <a href="https://apolliculture-commerce.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Apolliculture eCommerce"
             des="The name Apolliculture merges the idea of ​​the Greek God, Apollo, with 
@@ -33,7 +33,7 @@ const Projects = () => {
             canvaLink="https://www.canva.com/design/DAF-fh6M-f0/qv_qNkuOqzkVqXINPFFflA/view?utm_content=DAF-fh6M-f0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
           />
         </a>
-        <a href="https://star-wars-roulette.vercel.app/index.html" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Star Wars Roulette"
             des="The FIRST ORDER will not rest until the last Jedi has been destroyed. 
@@ -49,7 +49,7 @@ const Projects = () => {
             canvaLink="https://www.canva.com/design/DAGA-Vmj5Cs/jMw_Sg3byoDkEC4sVIBZrA/view?utm_content=DAGA-Vmj5Cs&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
         </a>
-        <a href="https://arboretum-task-manager.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Arboretum Todo List"
             des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
@@ -62,7 +62,7 @@ const Projects = () => {
             canvaLink=""
           />
         </a>
-        <a href="https://ecollectic.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="eCollectic Dashboard"
             des="Until now, you've been idly bumbling through life, inadvertently submitting yourself 
@@ -76,7 +76,7 @@ const Projects = () => {
             canvaLink="https://www.canva.com/design/DAGA-BH5k2I/VKFfj8-50vQmqczFKrkmkg/view?utm_content=DAGA-BH5k2I&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
         </a>
-        <a href="https://bizarre-bazaar.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Bizaar eCommerce"
             des="Here are the results of my first hackathon! During this intensive event, our team crafted 
@@ -89,7 +89,7 @@ const Projects = () => {
             canvaLink="https://docs.google.com/presentation/d/e/2PACX-1vSlaxzaSJj-Nc3keJdnUhlU_hfMfdIQP76wcArah7GthcMw-ZmsEnNJgW7CEBn0mEOqkunNlE5iBLeZ/pub?start=false&loop=false&delayms=3000&slide=id.p"
           />
         </a>
-        <a href="https://ecoderstech.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="ECODERS"
             des="This project marks my debut in web development. It stands as a testament 
