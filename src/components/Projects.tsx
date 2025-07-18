@@ -33,7 +33,7 @@ const Projects = () => {
             canvaLink="https://www.canva.com/design/DAF-fh6M-f0/qv_qNkuOqzkVqXINPFFflA/view?utm_content=DAF-fh6M-f0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
           />
         </p>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <p>
           <ProjectsCard
             title="Star Wars Roulette"
             des="The FIRST ORDER will not rest until the last Jedi has been destroyed. 
@@ -48,8 +48,8 @@ const Projects = () => {
             githubLink="https://github.com/Hack3r-han/StarWars-Roulette"
             canvaLink="https://www.canva.com/design/DAGA-Vmj5Cs/jMw_Sg3byoDkEC4sVIBZrA/view?utm_content=DAGA-Vmj5Cs&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        </p>
+        <p>
           <ProjectsCard
             title="Arboretum Todo List"
             des="An arboretum-inspired task manager. This unique productivity tool transforms mundane chores 
@@ -61,8 +61,8 @@ const Projects = () => {
             githubLink="https://github.com/Hack3r-han/Arboretum-TDL"
             canvaLink=""
           />
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        </p>
+        <p>
           <ProjectsCard
             title="eCollectic Dashboard"
             des="Until now, you've been idly bumbling through life, inadvertently submitting yourself 
@@ -75,8 +75,8 @@ const Projects = () => {
             githubLink="https://github.com/Hack3r-han/eCollectic"
             canvaLink="https://www.canva.com/design/DAGA-BH5k2I/VKFfj8-50vQmqczFKrkmkg/view?utm_content=DAGA-BH5k2I&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        </p>
+        <p>
           <ProjectsCard
             title="Bizaar eCommerce"
             des="Here are the results of my first hackathon! During this intensive event, our team crafted 
@@ -88,8 +88,8 @@ const Projects = () => {
             githubLink="https://github.com/GitNinja0/Hackathon_Proyect"
             canvaLink="https://docs.google.com/presentation/d/e/2PACX-1vSlaxzaSJj-Nc3keJdnUhlU_hfMfdIQP76wcArah7GthcMw-ZmsEnNJgW7CEBn0mEOqkunNlE5iBLeZ/pub?start=false&loop=false&delayms=3000&slide=id.p"
           />
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        </p>
+        <p>
           <ProjectsCard
             title="ECODERS"
             des="This project marks my debut in web development. It stands as a testament 
@@ -103,7 +103,7 @@ const Projects = () => {
             githubLink="https://github.com/Hack3r-han/ECO-DERS"
             canvaLink="https://www.canva.com/design/DAGA-b3wnyU/QhwRCLilSKBl82olNLH-Tw/view?utm_content=DAGA-b3wnyU&utm_campaign=designshare&utm_medium=link&utm_source=editor"
           />
-        </a>
+        </p>
       </div>
     </section>
   );
