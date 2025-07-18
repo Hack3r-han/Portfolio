@@ -17,7 +17,7 @@ const Projects = () => {
         <Title title="VISIT MY PORTFOLIO" des="My Projects" />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <p>
           <ProjectsCard
             title="Apolliculture eCommerce"
             des="The name Apolliculture merges the idea of ​​the Greek God, Apollo, with 
@@ -32,7 +32,7 @@ const Projects = () => {
             githubLink="https://github.com/DenisseNavarro/Apolliculture"
             canvaLink="https://www.canva.com/design/DAF-fh6M-f0/qv_qNkuOqzkVqXINPFFflA/view?utm_content=DAF-fh6M-f0&utm_campaign=designshare&utm_medium=link&utm_source=editor#1"
           />
-        </a>
+        </p>
         <a href="" target="_blank" rel="noopener noreferrer">
           <ProjectsCard
             title="Star Wars Roulette"
